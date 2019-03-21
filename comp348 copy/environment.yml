@@ -1,0 +1,17 @@
+channels:
+  - defaults
+  - damianavila82
+dependencies:
+  - python=3.6
+  - ipykernel
+  - keras
+  - matplotlib
+  - nltk
+  - numpy
+  - pandas
+  - rise
+  - scikit-learn
+  - scipy
+  - pip:
+      - git+git://github.com/mkrphys/ipython-tikzmagic.git
+
